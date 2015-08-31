@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	It creates a folder that you can now add commits to.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	It is a temporary location for you to hold files before adding them to a commit
